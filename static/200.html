@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/sarz.dev/favicon.png" />
+		<meta name="viewport" content="width=device-width" />
+		
+		<link rel="modulepreload" href="/sarz.dev/_app/immutable/entry/start.2631b53a.js">
+		<link rel="modulepreload" href="/sarz.dev/_app/immutable/chunks/scheduler.e108d1fd.js">
+		<link rel="modulepreload" href="/sarz.dev/_app/immutable/chunks/singletons.b78a9784.js">
+		<link rel="modulepreload" href="/sarz.dev/_app/immutable/entry/app.2d775db3.js">
+		<link rel="modulepreload" href="/sarz.dev/_app/immutable/chunks/index.5ae4157e.js">
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">
+			<script>
+				{
+					__sveltekit_2dko8u = {
+						assets: "/sarz.dev",
+						base: "/sarz.dev",
+						env: {}
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("/sarz.dev/_app/immutable/entry/start.2631b53a.js"),
+						import("/sarz.dev/_app/immutable/entry/app.2d775db3.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element);
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>
