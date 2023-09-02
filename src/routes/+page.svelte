@@ -41,9 +41,4 @@
 	span {
 		font-size: 7rem;
 	}
-
-	.construction-image img {
-		max-width: 100%;
-		height: auto;
-	}
 </style>
