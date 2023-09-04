@@ -50,6 +50,7 @@
 		Gracias por confiar en <b>Cheems Samurai</b>. Tu privacidad es importante para nosotros y
 		trabajamos arduamente para asegurarnos de que tu experiencia sea segura y agradable.
 	</p>
+
 	<p>Fecha de última actualización: 19-08-2023</p>
 </div>
 
